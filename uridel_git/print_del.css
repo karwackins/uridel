@@ -1,0 +1,15 @@
+table
+{
+    width: 100%;
+    height: 100%;
+}
+
+#prawa
+{
+    background-color: greenyellow;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+

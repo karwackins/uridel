@@ -1,0 +1,19 @@
+
+#tabela
+{
+    font-size: 14px;
+    width: 100%;
+}
+
+#tabela td
+{
+    height: 30px;
+}
+
+.podpis
+{
+    height: 5px;
+    font-size: 10px;
+    vertical-align: text-top;
+    text-align: center;
+}
